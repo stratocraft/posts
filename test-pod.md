@@ -40,3 +40,8 @@ Wow, that's something I'm gonna use on my next project.
 
 
 > The best thing about standards is there are so many to choose from.
+
+
+## Links
+
+[Google](https://google.com)
