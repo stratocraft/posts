@@ -4,7 +4,7 @@ Date: 2025-05-30T12:00:31Z
 Title: "Post 2"
 Author: "Jeremy Novak"
 Summary: "Part one of my home lab bare metal Kubernetes cluster with Calico"
-Slug: building-a-home-lab-part-one
+Slug: post-2
 Tags: 
  - homelab
  - kubernetes
